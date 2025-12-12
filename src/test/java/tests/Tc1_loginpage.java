@@ -20,7 +20,7 @@ import static Driverfactory.drivefactory.getdriver;
 @Listeners({Itestresultlisteners.class, Invokedresultlisteners.class})
 public class Tc1_loginpage {
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setup() throws IOException {
         //condition ? true : false
 
@@ -42,7 +42,7 @@ public class Tc1_loginpage {
         Assert.assertTrue(new p01_loginpage(getdriver()).asserloginTc(datautil.propertiesfile("enviroment", "home_url")));
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit() {
         drivefactory.quit();
 
