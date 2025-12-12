@@ -22,7 +22,7 @@ import static Driverfactory.drivefactory.getdriver;
 
 @Listeners({Itestresultlisteners.class, Invokedresultlisteners.class})
 public class Tc3_cartpage {
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setup() throws IOException {
         String browser = System.getProperty("browser") != null ? System.getProperty("browser") : datautil.propertiesfile("enivroment", "browser");
         logsutils.info(System.getProperty("browser"));
@@ -45,7 +45,7 @@ public class Tc3_cartpage {
         Assert.assertTrue(new p03_cart(getdriver()).comparepriceing(totlaprice));
     }
 
-    @AfterMethod
+    @AfterMethod(alwaysRun = true)
     public void quit() {
         drivefactory.quit();
     }
