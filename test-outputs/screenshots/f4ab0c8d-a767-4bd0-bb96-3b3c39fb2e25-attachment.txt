@@ -1,0 +1,37 @@
+[ERROR] 2025-12-11 00:01:43 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-11 00:01:43 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-11 00:01:44 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-11 00:01:44 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-11 00:01:44 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-11 00:01:44 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[INFO] 2025-12-11 00:01:44 [Utilites.logsutils] - null
+[INFO] 2025-12-11 00:01:46 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-11 00:01:49 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-11 00:01:49 [Utilites.logsutils] - Testcase validloginstarted
+[INFO] 2025-12-11 00:01:52 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-11 00:01:54 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-11 00:01:56 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-11 00:02:19 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-11 00:02:20 [Utilites.logsutils] - Testcase addrandomnumbertocartstarted
+[INFO] 2025-12-11 00:02:20 [Utilites.logsutils] - randomnumber1
+[INFO] 2025-12-11 00:02:20 [Utilites.logsutils] - randomnumber2
+[INFO] 2025-12-11 00:02:20 [Utilites.logsutils] - randomnumber6
+[INFO] 2025-12-11 00:02:20 [Utilites.logsutils] - the number of card icon By.className: //*[@id="shopping_cart_container"]/a/span
+[ERROR] 2025-12-11 00:02:25 [Utilites.logsutils] - no such element: Unable to locate element: {"method":"css selector","selector":".\/\/\*\[\@id\=\"shopping_cart_container\"\]\/a\/span"}
+  (Session info: MicrosoftEdge=143.0.3650.75)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [54f6c089d819f5286c0ed9f566092138, findElement {value=//*[@id="shopping_cart_container"]/a/span, using=class name}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.75, fedcm:accounts: true, goog:processID: 14532, ms:edgeOptions: {debuggerAddress: localhost:55363}, msedge: {msedgedriverVersion: 143.0.3650.75 (4d325bd07b04..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55363/devtoo..., se:cdpVersion: 143.0.3650.75, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 54f6c089d819f5286c0ed9f566092138
+[INFO] 2025-12-11 00:02:32 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-11 00:02:39 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-11 00:02:40 [Utilites.logsutils] - Testcase verfiythecartpagestarted
+[ERROR] 2025-12-11 00:02:40 [Utilites.logsutils] - Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+[INFO] 2025-12-11 00:02:40 [Utilites.logsutils] - Testcase comparethetoltalpricestarted
+[INFO] 2025-12-11 00:02:40 [Utilites.logsutils] - Testcase comparethetoltalprice  started 
+[ERROR] 2025-12-11 00:02:40 [Utilites.logsutils] - Cannot invoke "org.openqa.selenium.JavascriptExecutor.executeScript(String, Object[])" because "js" is null
+[INFO] 2025-12-11 00:02:40 [Utilites.logsutils] - Testcase checkouttcstarted
+[INFO] 2025-12-11 00:02:40 [Utilites.logsutils] - Testcase checkouttc  started 

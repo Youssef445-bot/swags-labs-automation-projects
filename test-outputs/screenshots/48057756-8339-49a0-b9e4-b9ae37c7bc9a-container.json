@@ -1,0 +1,1 @@
+{"uuid":"48057756-8339-49a0-b9e4-b9ae37c7bc9a","name":"tests.Tc3_cartpage.setup","children":["1686b752-919f-4cc2-9f02-3eaabe32cb2f"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1764860565407,"stop":1764860570943}],"afters":[],"start":1764860565405,"stop":1764860570944}

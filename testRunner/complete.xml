@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="completepage">
+    <listeners>
+        <listener class-name="listeners.Invokedresultlisteners"></listener>
+        <listener class-name="listeners.Itestresultlisteners"></listener>
+    </listeners>
+    <test name="completepage">
+        <classes>
+            <class name="tests.Tc6_complete"></class>
+        </classes>
+    </test>
+</suite>

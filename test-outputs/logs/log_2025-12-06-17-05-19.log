@@ -1,0 +1,15 @@
+[ERROR] 2025-12-06 17:05:19 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-06 17:05:19 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[INFO] 2025-12-06 17:05:26 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-06 17:05:30 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-06 17:05:30 [Utilites.logsutils] - Testcase checkouttcstarted
+[ERROR] 2025-12-06 17:05:35 [Utilites.logsutils] - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=142.0.3595.94)
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [42aa806bd4609411fb8454685a7553ad, executeScript {script=return window.devicePixelRatio;, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.94, fedcm:accounts: true, goog:processID: 2072, ms:edgeOptions: {debuggerAddress: localhost:51450}, msedge: {msedgedriverVersion: 142.0.3595.120 (5c2b90e4584..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51450/devtoo..., se:cdpVersion: 142.0.3595.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 42aa806bd4609411fb8454685a7553ad
+[INFO] 2025-12-06 17:05:35 [Utilites.logsutils] - Testcase checkouttcstarted

@@ -1,0 +1,17 @@
+[ERROR] 2025-12-06 18:02:52 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-06 18:02:52 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[INFO] 2025-12-06 18:02:54 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-06 18:02:57 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-06 18:02:58 [Utilites.logsutils] - Testcase checkouttcstarted
+[INFO] 2025-12-06 18:02:58 [Utilites.logsutils] - the number of add produce6
+[INFO] 2025-12-06 18:03:00 [Utilites.logsutils] - firstname :0-2025-12-06-6-2-52PMlastname0-2025-12-06-6-2-52PMzipcode : 73171
+[ERROR] 2025-12-06 18:03:08 [Utilites.logsutils] - no such element: Unable to locate element: {"method":"css selector","selector":".\/\/\*\[\@id\=\"shopping_cart_container\"\]\/a\/span"}
+  (Session info: MicrosoftEdge=142.0.3595.94)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b5cf4e11623b60e63cc221d771e1f637, findElement {value=//*[@id="shopping_cart_container"]/a/span, using=class name}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.94, fedcm:accounts: true, goog:processID: 13696, ms:edgeOptions: {debuggerAddress: localhost:53375}, msedge: {msedgedriverVersion: 142.0.3595.120 (5c2b90e4584..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53375/devtoo..., se:cdpVersion: 142.0.3595.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b5cf4e11623b60e63cc221d771e1f637
+[INFO] 2025-12-06 18:03:08 [Utilites.logsutils] - Testcase checkouttcstarted

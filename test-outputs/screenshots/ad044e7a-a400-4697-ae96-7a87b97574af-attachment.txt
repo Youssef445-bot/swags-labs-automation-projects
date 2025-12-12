@@ -1,0 +1,56 @@
+[ERROR] 2025-12-10 14:57:50 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 14:57:50 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 14:57:50 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 14:57:50 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 14:57:51 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 14:57:51 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[INFO] 2025-12-10 14:58:09 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 14:58:32 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 14:58:32 [Utilites.logsutils] - Testcase validloginstarted
+[INFO] 2025-12-10 14:58:35 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 14:58:58 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 14:59:01 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 14:59:04 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 14:59:04 [Utilites.logsutils] - Testcase addrandomnumbertocartstarted
+[INFO] 2025-12-10 14:59:04 [Utilites.logsutils] - randomnumber1
+[INFO] 2025-12-10 14:59:04 [Utilites.logsutils] - randomnumber3
+[INFO] 2025-12-10 14:59:05 [Utilites.logsutils] - randomnumber6
+[INFO] 2025-12-10 14:59:05 [Utilites.logsutils] - the number of card icon By.className: //*[@id="shopping_cart_container"]/a/span
+[ERROR] 2025-12-10 14:59:10 [Utilites.logsutils] - no such element: Unable to locate element: {"method":"css selector","selector":".\/\/\*\[\@id\=\"shopping_cart_container\"\]\/a\/span"}
+  (Session info: MicrosoftEdge=143.0.3650.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [fcd169e67d8d79c4d1b65c03aca2c3d1, findElement {using=class name, value=//*[@id="shopping_cart_container"]/a/span}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.66, fedcm:accounts: true, goog:processID: 23436, ms:edgeOptions: {debuggerAddress: localhost:65024}, msedge: {msedgedriverVersion: 143.0.3650.75 (4d325bd07b04..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65024/devtoo..., se:cdpVersion: 143.0.3650.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fcd169e67d8d79c4d1b65c03aca2c3d1
+[INFO] 2025-12-10 14:59:17 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 14:59:17 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 14:59:19 [Utilites.logsutils] - Testcase verfiythecartpagestarted
+[INFO] 2025-12-10 14:59:21 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 14:59:24 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 14:59:24 [Utilites.logsutils] - Testcase comparethetoltalpricestarted
+[INFO] 2025-12-10 14:59:24 [Utilites.logsutils] - randomnumber1
+[INFO] 2025-12-10 14:59:25 [Utilites.logsutils] - randomnumber3
+[INFO] 2025-12-10 14:59:25 [Utilites.logsutils] - randomnumber5
+[ERROR] 2025-12-10 14:59:30 [Utilites.logsutils] - no such element: Unable to locate element: {"method":"xpath","selector":"//button[.="Remove"]//preceding-sibling::div[@class="inventory_item_price"][2]"}
+  (Session info: MicrosoftEdge=143.0.3650.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [065a27f514ea5c48f56e91385b483039, findElement {using=xpath, value=//button[.="Remove"]//preceding-sibling::div[@class="inventory_item_price"][2]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.66, fedcm:accounts: true, goog:processID: 17096, ms:edgeOptions: {debuggerAddress: localhost:65102}, msedge: {msedgedriverVersion: 143.0.3650.75 (4d325bd07b04..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65102/devtoo..., se:cdpVersion: 143.0.3650.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 065a27f514ea5c48f56e91385b483039
+[ERROR] 2025-12-10 14:59:35 [Utilites.logsutils] - no such element: Unable to locate element: {"method":"xpath","selector":"//button[.="Remove"]//preceding-sibling::div[@class="inventory_item_price"][2]"}
+  (Session info: MicrosoftEdge=143.0.3650.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [065a27f514ea5c48f56e91385b483039, findElement {using=xpath, value=//button[.="Remove"]//preceding-sibling::div[@class="inventory_item_price"][2]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.66, fedcm:accounts: true, goog:processID: 17096, ms:edgeOptions: {debuggerAddress: localhost:65102}, msedge: {msedgedriverVersion: 143.0.3650.75 (4d325bd07b04..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65102/devtoo..., se:cdpVersion: 143.0.3650.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 065a27f514ea5c48f56e91385b483039
+[INFO] 2025-12-10 14:59:37 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 14:59:42 [Utilites.logsutils] - the edge browser is navigate to url

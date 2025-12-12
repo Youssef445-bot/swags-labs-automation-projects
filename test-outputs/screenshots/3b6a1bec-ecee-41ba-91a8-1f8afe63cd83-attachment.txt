@@ -1,0 +1,12 @@
+[ERROR] 2025-12-10 23:15:52 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 23:15:52 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 23:15:52 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 23:15:52 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 23:15:52 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 23:15:52 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[INFO] 2025-12-10 23:15:52 [Utilites.logsutils] - null
+[INFO] 2025-12-10 23:15:55 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 23:16:06 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 23:16:07 [Utilites.logsutils] - Testcase validloginstarted
+[INFO] 2025-12-10 23:16:09 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 23:16:59 [Utilites.logsutils] - the edge browser is navigate to url

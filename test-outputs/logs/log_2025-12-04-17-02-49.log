@@ -1,0 +1,24 @@
+[INFO] 2025-12-04 17:02:49 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-04 17:02:50 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-04 17:02:51 [Utilites.logsutils] - Testcase comparethetoltalpricestarted
+[INFO] 2025-12-04 17:02:51 [Utilites.logsutils] - randomnumber3
+[INFO] 2025-12-04 17:02:51 [Utilites.logsutils] - randomnumber4
+[INFO] 2025-12-04 17:02:52 [Utilites.logsutils] - randomnumber5
+[ERROR] 2025-12-04 17:02:57 [Utilites.logsutils] - no such element: Unable to locate element: {"method":"xpath","selector":"//button[.="Remove"]//preceding-sibling::div[@class="inventory_item_price"][2]"}
+  (Session info: MicrosoftEdge=142.0.3595.94)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d909b0f77ed414dee039ff4952f4e028, findElement {value=//button[.="Remove"]//preceding-sibling::div[@class="inventory_item_price"][2], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.94, fedcm:accounts: true, goog:processID: 2328, ms:edgeOptions: {debuggerAddress: localhost:62696}, msedge: {msedgedriverVersion: 142.0.3595.94 (6565d6e52817..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62696/devtoo..., se:cdpVersion: 142.0.3595.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d909b0f77ed414dee039ff4952f4e028
+[ERROR] 2025-12-04 17:03:02 [Utilites.logsutils] - no such element: Unable to locate element: {"method":"xpath","selector":"//button[.="Remove"]//preceding-sibling::div[@class="inventory_item_price"][2]"}
+  (Session info: MicrosoftEdge=142.0.3595.94)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d909b0f77ed414dee039ff4952f4e028, findElement {value=//button[.="Remove"]//preceding-sibling::div[@class="inventory_item_price"][2], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 142.0.3595.94, fedcm:accounts: true, goog:processID: 2328, ms:edgeOptions: {debuggerAddress: localhost:62696}, msedge: {msedgedriverVersion: 142.0.3595.94 (6565d6e52817..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62696/devtoo..., se:cdpVersion: 142.0.3595.94, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d909b0f77ed414dee039ff4952f4e028

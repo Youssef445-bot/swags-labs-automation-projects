@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <listeners>
+        <listener class-name="listeners.Invokedresultlisteners"></listener>
+        <listener class-name="listeners.Itestresultlisteners"></listener>
+    </listeners>
+    <test name="Regression">
+        <classes>
+            <class name="tests.Tc1_loginpage"></class>
+            <class name="tests.Tc2_landingpage"></class>
+            <class name="tests.Tc3_cartpage"></class>
+            <class name="tests.Tc4_checkoutpage"></class>
+            <class name="tests.TC5_overview"></class>
+            <class name="tests.Tc6_complete"></class>
+        </classes>
+    </test>
+</suite>

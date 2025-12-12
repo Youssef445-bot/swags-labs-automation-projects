@@ -1,0 +1,37 @@
+[ERROR] 2025-12-10 17:00:01 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 17:00:01 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 17:00:01 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 17:00:01 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 17:00:02 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 17:00:02 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[INFO] 2025-12-10 17:00:02 [Utilites.logsutils] - firefox
+[INFO] 2025-12-10 17:00:09 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 17:00:12 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 17:00:12 [Utilites.logsutils] - Testcase validloginstarted
+[INFO] 2025-12-10 17:00:18 [Utilites.logsutils] - the edge browser is opened
+[ERROR] 2025-12-10 17:00:25 [Utilites.logsutils] - invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=143.0.3650.66)
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [a65cdfa8def3f7de0b9cd9d77d2de1ab, executeScript {script=return window.devicePixelRatio;, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.66, fedcm:accounts: true, goog:processID: 25176, ms:edgeOptions: {debuggerAddress: localhost:51093}, msedge: {msedgedriverVersion: 143.0.3650.75 (4d325bd07b04..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51093/devtoo..., se:cdpVersion: 143.0.3650.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a65cdfa8def3f7de0b9cd9d77d2de1ab
+[INFO] 2025-12-10 17:00:25 [Utilites.logsutils] - Testcase addrandomnumbertocartstarted
+[INFO] 2025-12-10 17:00:25 [Utilites.logsutils] - Testcase addrandomnumbertocart  started 
+[INFO] 2025-12-10 17:00:26 [Utilites.logsutils] - Testcase verfiythecartpagestarted
+[INFO] 2025-12-10 17:00:26 [Utilites.logsutils] - Testcase verfiythecartpage  started 
+[INFO] 2025-12-10 17:00:28 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 17:00:29 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 17:00:30 [Utilites.logsutils] - Testcase comparethetoltalpricestarted
+[ERROR] 2025-12-10 17:00:35 [Utilites.logsutils] - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=143.0.3650.66)
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [d740b47944371ea44f12aae073e22bd8, executeScript {script=return window.devicePixelRatio;, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.66, fedcm:accounts: true, goog:processID: 20700, ms:edgeOptions: {debuggerAddress: localhost:51117}, msedge: {msedgedriverVersion: 143.0.3650.75 (4d325bd07b04..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51117/devtoo..., se:cdpVersion: 143.0.3650.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d740b47944371ea44f12aae073e22bd8
+[INFO] 2025-12-10 17:00:36 [Utilites.logsutils] - Testcase comparethetoltalpricestarted

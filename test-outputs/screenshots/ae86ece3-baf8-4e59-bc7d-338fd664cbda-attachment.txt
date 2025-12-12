@@ -1,0 +1,30 @@
+[ERROR] 2025-12-10 17:46:53 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 17:46:53 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 17:46:53 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 17:46:53 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 17:46:53 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-10 17:46:53 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[INFO] 2025-12-10 17:46:53 [Utilites.logsutils] - null
+[INFO] 2025-12-10 17:46:55 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 17:47:38 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 17:47:38 [Utilites.logsutils] - Testcase validloginstarted
+[INFO] 2025-12-10 17:47:41 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 17:48:20 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 17:48:23 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 17:48:51 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-10 17:48:55 [Utilites.logsutils] - Testcase addrandomnumbertocartstarted
+[INFO] 2025-12-10 17:48:55 [Utilites.logsutils] - randomnumber3
+[INFO] 2025-12-10 17:48:56 [Utilites.logsutils] - randomnumber4
+[INFO] 2025-12-10 17:48:56 [Utilites.logsutils] - randomnumber5
+[INFO] 2025-12-10 17:48:56 [Utilites.logsutils] - the number of card icon By.className: //*[@id="shopping_cart_container"]/a/span
+[ERROR] 2025-12-10 17:49:01 [Utilites.logsutils] - no such element: Unable to locate element: {"method":"css selector","selector":".\/\/\*\[\@id\=\"shopping_cart_container\"\]\/a\/span"}
+  (Session info: MicrosoftEdge=143.0.3650.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.8'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b61ebea0399090bcd9849b0933b38e7a, findElement {value=//*[@id="shopping_cart_container"]/a/span, using=class name}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.66, fedcm:accounts: true, goog:processID: 9624, ms:edgeOptions: {debuggerAddress: localhost:52577}, msedge: {msedgedriverVersion: 143.0.3650.75 (4d325bd07b04..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52577/devtoo..., se:cdpVersion: 143.0.3650.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b61ebea0399090bcd9849b0933b38e7a
+[INFO] 2025-12-10 17:49:08 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 17:49:11 [Utilites.logsutils] - the edge browser is navigate to url

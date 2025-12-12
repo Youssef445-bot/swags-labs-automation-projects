@@ -1,0 +1,7 @@
+[ERROR] 2025-12-07 14:29:03 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-07 14:29:03 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[INFO] 2025-12-07 14:29:06 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-07 14:29:08 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-07 14:29:09 [Utilites.logsutils] - Testcase completetcstarted
+[INFO] 2025-12-07 14:29:09 [Utilites.logsutils] - the number of add produce6
+[INFO] 2025-12-07 14:29:11 [Utilites.logsutils] - firstname :0-2025-12-07-2-29-03PMlastname0-2025-12-07-2-29-03PMzipcode : 65663

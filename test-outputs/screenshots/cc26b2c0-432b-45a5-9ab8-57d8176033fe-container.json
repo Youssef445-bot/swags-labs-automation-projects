@@ -1,0 +1,1 @@
+{"uuid":"cc26b2c0-432b-45a5-9ab8-57d8176033fe","name":"swags.labsautomationprojects","children":["83956ae3-7965-426a-8a9c-414ab464343e"],"befores":[{"name":"register","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1765127647276,"stop":1765127650856}],"afters":[],"start":1765127647243,"stop":1765127651055}

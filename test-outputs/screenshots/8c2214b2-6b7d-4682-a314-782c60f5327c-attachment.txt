@@ -1,0 +1,2 @@
+[INFO] 2025-12-10 15:21:03 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-10 15:21:04 [Utilites.logsutils] - the edge browser is navigate to url

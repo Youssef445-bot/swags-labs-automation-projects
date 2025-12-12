@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="landingpage">
+    <listeners>
+        <listener class-name="listeners.Invokedresultlisteners"></listener>
+        <listener class-name="listeners.Itestresultlisteners"></listener>
+    </listeners>
+    <test name="landingpage">
+        <classes>
+            <class name="tests.Tc2_landingpage"></class>
+        </classes>
+    </test>
+</suite>

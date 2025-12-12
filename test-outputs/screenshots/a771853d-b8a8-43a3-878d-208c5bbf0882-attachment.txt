@@ -1,0 +1,4 @@
+[ERROR] 2025-12-07 14:29:59 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[ERROR] 2025-12-07 14:29:59 [Utilites.logsutils] - src\test\resources\testdata\information.json (The system cannot find the file specified)
+[INFO] 2025-12-07 14:30:02 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-07 14:30:26 [Utilites.logsutils] - the edge browser is navigate to url

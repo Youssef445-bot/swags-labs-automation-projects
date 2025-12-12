@@ -1,0 +1,21 @@
+[INFO] 2025-12-07 18:43:32 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-07 18:43:55 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-07 18:43:57 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-07 18:44:20 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-07 18:44:21 [Utilites.logsutils] - Testcase addrandomnumbertocartstarted
+[INFO] 2025-12-07 18:44:21 [Utilites.logsutils] - randomnumber1
+[INFO] 2025-12-07 18:44:21 [Utilites.logsutils] - randomnumber3
+[INFO] 2025-12-07 18:44:21 [Utilites.logsutils] - randomnumber6
+[INFO] 2025-12-07 18:44:22 [Utilites.logsutils] - the number of card icon By.className: //*[@id="shopping_cart_container"]/a/span
+[ERROR] 2025-12-07 18:44:27 [Utilites.logsutils] - no such element: Unable to locate element: {"method":"css selector","selector":".\/\/\*\[\@id\=\"shopping_cart_container\"\]\/a\/span"}
+  (Session info: MicrosoftEdge=143.0.3650.66)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.37.0', revision: '3c1da1e342'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [20a9463892ca440f21d0ad9ce62c08a9, findElement {value=//*[@id="shopping_cart_container"]/a/span, using=class name}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 143.0.3650.66, fedcm:accounts: true, goog:processID: 2476, ms:edgeOptions: {debuggerAddress: localhost:49823}, msedge: {msedgedriverVersion: 143.0.3650.66 (507b0dd34c3d..., userDataDir: C:\Users\yousef\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49823/devtoo..., se:cdpVersion: 143.0.3650.66, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 20a9463892ca440f21d0ad9ce62c08a9
+[INFO] 2025-12-07 18:44:33 [Utilites.logsutils] - the edge browser is opened
+[INFO] 2025-12-07 18:44:57 [Utilites.logsutils] - the edge browser is navigate to url
+[INFO] 2025-12-07 18:44:57 [Utilites.logsutils] - Testcase verfiythecartpagestarted

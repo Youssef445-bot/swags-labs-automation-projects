@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="checkoutpage">
+    <listeners>
+        <listener class-name="listeners.Invokedresultlisteners"></listener>
+        <listener class-name="listeners.Itestresultlisteners"></listener>
+    </listeners>
+    <test name="checkoutpage">
+        <classes>
+            <class name="tests.Tc4_checkoutpage"></class>
+        </classes>
+    </test>
+</suite>
